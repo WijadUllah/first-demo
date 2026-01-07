@@ -1,2 +1,3 @@
 # first-demo
-This is my first Git Repository. Author - Wijad Ullah
+This is my first Git Repository.
+Author - Wijad Ullah
